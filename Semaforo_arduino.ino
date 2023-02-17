@@ -1,7 +1,7 @@
 
-const int ledRosso=9;
+const int ledRosso=11;
 const int ledGiallo=10;
-const int ledVerde=11;
+const int ledVerde=9;
 
 void setup() {
  
